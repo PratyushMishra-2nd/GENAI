@@ -2,15 +2,10 @@
 
 Chat in real-time with **Anshuman Singh**, **Abhimanyu Saxena**, and **Kshitij Mishra** — powered by Google Gemini AI.
 
-**Live Demo:** `[Add your Vercel URL here after deployment]`
+**Live Demo:** `(https://genai-three-taupe.vercel.app/)`
 
 ---
 
-## Screenshots
-
-> Add screenshots of the chatbot UI after first run.
-
----
 
 ## Tech Stack
 
